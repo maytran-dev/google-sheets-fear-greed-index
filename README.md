@@ -16,12 +16,22 @@ into Google Sheets with email alerts for extreme values.
 4. Replace placeholders with your own API key and email
 5. Save and run `fetchLatestFearGreedIndex`
 6. Authorize when prompted
-
+   
 ## Example
-https://docs.google.com/spreadsheets/d/1gRYowKzq6VlB8kFAJ2gVZ02qVfRD3948_OBsJSxLyBw/edit?usp=sharing
-![CMCf gdemo](https://github.com/user-attachments/assets/57590dd7-f10a-4c77-9711-3880b3b2588b)
-Email Template
-<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/71054389-d80d-4215-9c57-dd9ffa46e878" />
+
+You can view a working example here:  
+[📊 Google Sheets Demo](https://docs.google.com/spreadsheets/d/1gRYowKzq6VlB8kFAJ2gVZ02qVfRD3948_OBsJSxLyBw/edit?usp=sharing)
+
+---
+
+### Spreadsheet Demo
+![CMCF Fear & Greed Demo](https://github.com/user-attachments/assets/57590dd7-f10a-4c77-9711-3880b3b2588b)
+
+---
+
+### Email Alert Template
+<img src="https://github.com/user-attachments/assets/71054389-d80d-4215-9c57-dd9ffa46e878" alt="Email Alert Screenshot" width="800">
+
 
 
 ## License
