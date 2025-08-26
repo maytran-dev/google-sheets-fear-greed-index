@@ -17,7 +17,7 @@ const API_URL = 'https://pro-api.coinmarketcap.com/v3/fear-and-greed/latest';
 const SHEET_NAME = 'Fear & Greed'; // Name of the sheet to paste data
 
 // Email Alert Configuration
-const EMAIL_RECIPIENTS = 'maytran@travelthru.com'; // Single email or comma-separated list: 'email1@example.com, email2@example.com'
+const EMAIL_RECIPIENTS = 'email1@example.com'; // Single email or comma-separated list: 'email1@example.com, email2@example.com'
 const FEAR_THRESHOLD = 40; // Send alert when value < 40
 const GREED_THRESHOLD = 60; // Send alert when value > 60
 const ENABLE_EMAIL_ALERTS = true; // Set to false to disable email alerts
